@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/PrintingExporting/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/PrintingExporting/MainWindow.xaml.vb))**
+* [MainWindow.xaml.cs](./CS/PrintingExporting/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/PrintingExporting/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to print a map
 
 
