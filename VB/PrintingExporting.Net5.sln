@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintingExporting", "PrintingExporting\PrintingExporting.csproj", "{DF5E94B9-010E-40CC-B235-AD84D6BA2771}"
+# Visual Studio 16
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PrintingExporting", "PrintingExporting\PrintingExporting.Net5.vbproj", "{DF5E94B9-010E-40CC-B235-AD84D6BA2771}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
